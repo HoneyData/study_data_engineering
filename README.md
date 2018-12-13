@@ -19,3 +19,8 @@ TODO: Summarization
 # Softwares
 ## Hadoop Ecosystem
 - [https://www.slideshare.net/nicesj1/hadoop-distributed-file-system-rev3](https://www.slideshare.net/nicesj1/hadoop-distributed-file-system-rev3)
+
+
+# TODO
+Organize Data Engineering S/W Stacks
+- [https://bluezery.github.io/study_data_engineering/](https://bluezery.github.io/study_data_engineering/)
