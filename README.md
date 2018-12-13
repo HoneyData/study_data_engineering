@@ -15,3 +15,7 @@ READ, READ, READ, ...!
 * [https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7](https://hackernoon.com/what-is-data-engineering-5334cec027d0)
 
 TODO: Summarization
+
+# Softwares
+## Hadoop Ecosystem
+- [https://www.slideshare.net/nicesj1/hadoop-distributed-file-system-rev3](https://www.slideshare.net/nicesj1/hadoop-distributed-file-system-rev3)
